@@ -1,0 +1,17 @@
+
+body{
+    background-color: lightslategrey;
+    font-family: cursive;
+}
+
+#erreur{
+    color: red;
+}
+#transcription{
+    color: green;
+}
+#hourLabel{
+    /* font-family: cursive; */
+    color: whitesmoke;
+    
+}
